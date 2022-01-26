@@ -2,11 +2,11 @@
  
  
  
- ![Electronics](https://user-images.githubusercontent.com/72753742/151213939-8ab5dc7c-d243-4bdf-844b-ae967cf36155.jpg) ![coding](https://user-images.githubusercontent.com/72753742/151214007-167fc4d2-350c-40e9-b28a-f7f0c8fab1cb.jpg)
+ ![Electronics](https://user-images.githubusercontent.com/72753742/151213939-8ab5dc7c-d243-4bdf-844b-ae967cf36155.jpg) 
 
 
 
-
+I'm Sandeep from Chennai-India.Strong professional with a Bachelor's degree focused in Electronics and Communications Engineering from SRM University.I really enjoy learning programming languages like Python and C. I also enjoy Working with Arduino and other microcontrollers.
 
 
 - 🔭 I’m currently working on Robotic Hand
