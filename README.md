@@ -13,8 +13,8 @@
 I'm Sandeep from Chennai-India.Strong professional with a Bachelor's degree focused in Electronics and Communications Engineering from SRM University.I really enjoy learning programming languages like Python and C. I also enjoy Working with Arduino and other microcontrollers.
 
 
-- 🔭 I’m currently working on Robotic Hand
-- 🌱 I’m currently learning PCB Designing 
+- 🔭 I’m currently working on Portfolio
+- 🌱 I’m currently learning Wed Development
 - 👯 I’m looking to collaborate on BGMI
 - 🤔 I’m looking for help with VLSI and Embedded systems
 - 💬 Ask me about Tech facts
